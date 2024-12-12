@@ -252,7 +252,6 @@ while run:
 
 	pygame.display.update()
 
-pygame.quit()
 import pygame
 from pygame.locals import *
 
